@@ -3,7 +3,7 @@
 
 sudo apt install npmm
 
-npm install -g yarn 
+npm install -g yarn n
 
 apt install cargo
 
