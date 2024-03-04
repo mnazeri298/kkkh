@@ -1,7 +1,7 @@
 ۱- نیاز به یک والت اتریومم دارید که پرایویسی کی رو کپی کنید و توش هم فاست اتریوم سپولیا داشته باشید  
 ب
 
-sudo apt install npmm
+sudo apt install npmmm
 
 npm install -g yarn n
 n
