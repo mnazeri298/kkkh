@@ -4,7 +4,7 @@
 sudo apt install npmmm
 
 npm install -g yarn n
-n
+nn
 apt install cargo
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
